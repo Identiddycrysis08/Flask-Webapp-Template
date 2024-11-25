@@ -1,9 +1,9 @@
-name: Docker Build DEV
+name: Docker FR Build DEV
 
 on:
   push:
     branches:
-      - "french-retreat-dev"
+      - "french-retreat-dev-"
 
 jobs:
   build:

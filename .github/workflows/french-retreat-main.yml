@@ -1,4 +1,4 @@
-name: Docker Build MAIN
+name: Docker FR Build MAIN
 
 on:
   push:
